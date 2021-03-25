@@ -1,1 +1,3 @@
-# lab_04
+# Lab 4
+
+The purpose of this webmap is to show the percentage of each State's population that smokes everyday.  By using proportional symbols to show which states have a higher or lower percentage of everyday smokers, the reader can easily tell which states have the highest percentages.  The data gathered is from the [Center of Disease Control and Prevention Data Catalog](https://data.cdc.gov/Smoking-Tobacco-Use/2010-BRFSS-Smokes-Everyday-Map/exwk-rjkz) and it focuses on the percentage of the state population that smokes everyday.  The symbolization was kept simple with large orange circles to disgnate higher percentages and smaller orange circles for low percentages.  
